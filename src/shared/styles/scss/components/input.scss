@@ -1,0 +1,7 @@
+input[type='checkbox'] {
+  accent-color: var(--brand-primary-dark);
+}
+
+input[type='checkbox'].danger {
+  accent-color: var(--feedback-danger-dark);
+}
